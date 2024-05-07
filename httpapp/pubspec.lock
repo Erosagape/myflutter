@@ -7,7 +7,11 @@ packages:
       name: async
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "2.9.0"
+=======
+    version: "2.6.1"
+>>>>>>> ee869d2c138faecd8958c9f452a36b0d81cd36e5
   boolean_selector:
     dependency: transitive
     description:
@@ -146,7 +150,11 @@ packages:
       name: source_span
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "1.9.0"
+=======
+    version: "1.8.1"
+>>>>>>> ee869d2c138faecd8958c9f452a36b0d81cd36e5
   stack_trace:
     dependency: transitive
     description:
@@ -181,7 +189,11 @@ packages:
       name: test_api
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "0.4.12"
+=======
+    version: "0.3.0"
+>>>>>>> ee869d2c138faecd8958c9f452a36b0d81cd36e5
   typed_data:
     dependency: transitive
     description:
